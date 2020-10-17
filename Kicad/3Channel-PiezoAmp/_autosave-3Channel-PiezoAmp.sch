@@ -349,7 +349,7 @@ U 1 1 5F8DF6EF
 P 1050 2950
 F 0 "J1" H 1032 3275 50  0000 C CNN
 F 1 "InputJack1" H 1032 3184 50  0000 C CNN
-F 2 "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal" H 1050 2950 50  0001 C CNN
+F 2 "3Channel-PiezoAmp:Jack_3.5mm_dusjagr_Horizontal" H 1050 2950 50  0001 C CNN
 F 3 "~" H 1050 2950 50  0001 C CNN
 	1    1050 2950
 	1    0    0    -1  
@@ -479,7 +479,7 @@ U 1 1 5F91318D
 P 10050 2050
 F 0 "J4" H 9770 1983 50  0000 R CNN
 F 1 "OutputJack1" H 9770 2074 50  0000 R CNN
-F 2 "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal" H 10050 2050 50  0001 C CNN
+F 2 "3Channel-PiezoAmp:Jack_3.5mm_dusjagr_Horizontal" H 10050 2050 50  0001 C CNN
 F 3 "~" H 10050 2050 50  0001 C CNN
 	1    10050 2050
 	-1   0    0    1   
@@ -724,7 +724,7 @@ U 1 1 5F9A4738
 P 1050 5100
 F 0 "J2" H 1032 5425 50  0000 C CNN
 F 1 "InputJack2" H 1032 5334 50  0000 C CNN
-F 2 "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal" H 1050 5100 50  0001 C CNN
+F 2 "3Channel-PiezoAmp:Jack_3.5mm_dusjagr_Horizontal" H 1050 5100 50  0001 C CNN
 F 3 "~" H 1050 5100 50  0001 C CNN
 	1    1050 5100
 	1    0    0    -1  
@@ -943,7 +943,7 @@ U 1 1 5FA210E6
 P 1050 6850
 F 0 "J3" H 1032 7175 50  0000 C CNN
 F 1 "InputJack3" H 1032 7084 50  0000 C CNN
-F 2 "Connector_Audio:Jack_3.5mm_PJ320D_Horizontal" H 1050 6850 50  0001 C CNN
+F 2 "3Channel-PiezoAmp:Jack_3.5mm_dusjagr_Horizontal" H 1050 6850 50  0001 C CNN
 F 3 "~" H 1050 6850 50  0001 C CNN
 	1    1050 6850
 	1    0    0    -1  
