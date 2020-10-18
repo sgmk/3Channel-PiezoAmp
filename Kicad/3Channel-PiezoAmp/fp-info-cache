@@ -1,4 +1,25 @@
-18995969635359592
+19008793892303592
+3Channel-PiezoAmp
+C_1206_3216Metric_Pad1.33x1.80mm_HandSolder
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+3Channel-PiezoAmp
+C_1210_3225Metric_Pad1.33x2.70mm_HandSolder
+Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor handsolder
+0
+2
+2
+3Channel-PiezoAmp
+D_1206_3216Metric_Pad1.42x1.75mm_HandSolder
+Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
 3Channel-PiezoAmp
 Jack_3.5mm_dusjagr_Horizontal
 Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electronics.com/en/products/WQP-PJ320D-72.html)
@@ -7,11 +28,46 @@ Headphones with microphone connector, 3.5mm, 4 pins (http://www.qingpu-electroni
 6
 3
 3Channel-PiezoAmp
+LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+3Channel-PiezoAmp
+Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical
+Molex KK-254 Interconnect System, old/engineering part number: AE-6410-02A example for new part number: 22-27-2021, 2 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator
+connector Molex KK-254 vertical
+0
+2
+2
+3Channel-PiezoAmp
 RD901F-ALPHA-3D
 
 
 0
 5
+3
+3Channel-PiezoAmp
+R_1206_3216Metric_Pad1.30x1.75mm_HandSolder
+Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+resistor handsolder
+0
+2
+2
+3Channel-PiezoAmp
+SO-14_5.3x10.2mm_P1.27mm
+SO, 14 Pin (https://www.ti.com/lit/ml/msop002a/msop002a.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SO SO
+0
+14
+14
+3Channel-PiezoAmp
+SOT-23_Handsoldering
+SOT-23, Handsoldering
+SOT-23
+0
+3
 3
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
