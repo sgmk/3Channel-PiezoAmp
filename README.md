@@ -15,4 +15,4 @@ https://wiki.sgmk-ssam.ch/wiki/Ralf%27s_Piezo-Amp
 
 ## Case studies
 
-![](raw/main/photos/3channel_silicone_cover.jpg)
+![](https://github.com/sgmk/3Channel-PiezoAmp/raw/main/photos/3channel_silicone_cover.jpg)
