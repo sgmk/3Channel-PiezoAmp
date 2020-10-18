@@ -7,7 +7,7 @@ https://wiki.sgmk-ssam.ch/wiki/Ralf%27s_Piezo-Amp
 
 ## Version 02
 
-![](./photos/PCB_3d_preview_back.jpg)
+![](raw/main/photos/PCB_3d_preview_back.jpg)
 
 ## Version 01
 
