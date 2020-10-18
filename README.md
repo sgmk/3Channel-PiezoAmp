@@ -7,7 +7,9 @@ https://wiki.sgmk-ssam.ch/wiki/Ralf%27s_Piezo-Amp
 
 ## Version 02
 
-![](https://github.com/sgmk/3Channel-PiezoAmp/raw/main/photos/PCB_3d_preview_back.jpg)
+![](https://github.com/sgmk/3Channel-PiezoAmp/raw/main/photos/3channel_exploringHacks.jpg)
+
+![](https://github.com/sgmk/3Channel-PiezoAmp/raw/main/photos/3channel_silicone_cover.jpg)
 
 ## Version 01
 
