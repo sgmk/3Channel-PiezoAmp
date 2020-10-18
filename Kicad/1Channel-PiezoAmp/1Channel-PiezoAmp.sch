@@ -716,9 +716,6 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 1700 5150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	5700 2550 6000 2550
-Connection ~ 6000 2550
-Wire Wire Line
 	6000 2550 6300 2550
 Wire Wire Line
 	3000 1400 6300 1400
@@ -728,7 +725,6 @@ Wire Wire Line
 	1550 1400 2100 1400
 Wire Wire Line
 	5700 2550 5550 2550
-Connection ~ 5700 2550
 Wire Wire Line
 	5150 2550 5200 2550
 Wire Wire Line
