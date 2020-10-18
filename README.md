@@ -16,7 +16,7 @@ https://wiki.sgmk-ssam.ch/wiki/Ralf%27s_Piezo-Amp
 
 ## Version 01
 
-
+![](https://github.com/sgmk/3Channel-PiezoAmp/raw/main/Kicad/3Channel-PiezoAmp-MASK_01.jpg)
 
 ## Case studies
 
